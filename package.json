@@ -1,6 +1,6 @@
 {
     "name": "strncat",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A Javascript port of the strncat C function.",
     "license": "MIT",
     "repository": "itsbasvandam/strncat",
