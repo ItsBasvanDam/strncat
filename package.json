@@ -1,0 +1,21 @@
+{
+    "name": "strncat",
+    "version": "1.0.0",
+    "description": "A Javascript port of the strncat C function.",
+    "license": "MIT",
+    "repository": "itsbasvandam/strncat",
+    "main": "index.js",
+    "keywords": [
+        "strncat",
+        "string",
+        "concat",
+        "concatenate",
+        "c"
+    ],
+    "scripts": {
+        "test": "jest"
+    },
+    "devDependencies": {
+        "jest": "^27.4.2"
+    }
+}
