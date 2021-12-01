@@ -15,4 +15,4 @@ function strncat(destination, source, num) {
     return destination.concat(source.substr(0, num));
 }
 
-module.exports = strncat;
+module.exports = { strncat };

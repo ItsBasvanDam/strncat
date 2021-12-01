@@ -16,8 +16,17 @@ npm install --save strncat
 ## Usage
 Usage is very similar to that of the original function.
 
+### Javascript
 ```javascript
-const strncat = require("strncat");
+const { strncat } = require("strncat");
+
+let result = strncat("foo", "barman", 3);
+// result = "foobar"
+```
+
+### Typescript
+```typescript
+import { strncat } from "strncat";
 
 let result = strncat("foo", "barman", 3);
 // result = "foobar"
