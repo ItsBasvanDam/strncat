@@ -1,4 +1,4 @@
-const strncat = require("../index");
+const { strncat } = require("../index");
 
 test("Concats two strings together", () => {
     let a = "foo";

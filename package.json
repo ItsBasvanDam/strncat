@@ -1,10 +1,11 @@
 {
     "name": "strncat",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "A Javascript port of the strncat C function.",
     "license": "MIT",
     "repository": "itsbasvandam/strncat",
     "main": "index.js",
+    "types": "index.d.ts",
     "keywords": [
         "strncat",
         "string",
